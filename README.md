@@ -1,2 +1,2 @@
 # java
-this is for source code management
+This is for AP Computer Science course.
